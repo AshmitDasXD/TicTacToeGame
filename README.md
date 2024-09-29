@@ -1,4 +1,4 @@
-# eValidateMail
+# Nevil's Tic Tac Toe Game
 
 Nevil's Tic Tac Toe game is a simple tic tac toe game made by me, for understanding the concepts of web development more clearly.
 
