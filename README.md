@@ -10,7 +10,7 @@ Nevil's Tic Tac Toe game is a simple tic tac toe game made by me, for understand
 
 ## Built With
 
-[HTML](https://en.wikipedia.org/wiki/HTML) - I used HTML in my Tic Tac Toe Game to make CSS and JS file work in the website and also to make a skeleton of the website.
+* [HTML](https://en.wikipedia.org/wiki/HTML) - I used HTML in my Tic Tac Toe Game to make CSS and JS file work in the website and also to make a skeleton of the website.
 * [CSS](https://en.wikipedia.org/wiki/CSS) - I used CSS for adding awesome and attractive designs to my website.
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - I used JavaScript to make the Tic Tac Toe game work logically perfect.
 
